@@ -1,0 +1,35 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Arms will get new content for free after launch",
+            "id": 212,
+            "datum": "18/05/2017 - 22:45",
+            "categorieen": ["Arms","Nintendo","games","software"],
+            "samenvatting": "Nintendo will continue to update Arms, the upcoming multiplayer fighting game for Nintendo Switch, with new content for free after launch.",
+            "body": "<p class='samenvatting'>Nintendo will continue to update Arms, the upcoming multiplayer fighting game for Nintendo Switch, with new content for free after launch. In a Nintendo Direct presentation focused on the game, the company announced that it will release new fighters, stages and weapons as free updates to keep the game fresh. That’s a model similar to that of Splatoon, Arms’ fellow multiplayer game, which also made a special appearance in today’s Nintendo Direct. At launch, Arms will have at least 10 fighters to choose from. Three of those were introduced during today’s Nintendo Direct, along with new details on the game’s various modes. Nintendo will also give players a chance to try out the original property starting next weekend, when the first of two beta weekends begins. Check out our gallery below for images of the fighters and stages that Arms will have ready for the punching when it launches on June 16.</p>",
+            "afbeeldingl": "arms1.jpg",
+            "afbeeldings": "arms1.jpg"
+        },
+        {
+            "titel": "Samsung TV update coming to fix Nintendo Switch HDMI issue",
+            "id": 210,
+            "datum": "19/05/2017 - 08:43",
+            "categorieen": ["Nintendo","games","hardware"],
+            "samenvatting": "Samsung is finally addressing a confounding issue with the automatic HDMI input switching feature in its televisions — a problem that plagued Nintendo Switch owners in particular.",
+            "body": "<p class='samenvatting'>Samsung is finally addressing a confounding issue with the automatic HDMI input switching feature in its televisions — a problem that plagued Nintendo Switch owners in particular. In a statement to The Verge today, Samsung said it “will be issuing a Firmware update early this summer that will address this behavior and provide the level of convenience that was intended.” Samsung’s 2016 TVs will automatically switch the active HDMI input to a different one if they detect that the device connected to the second input has been turned on. There is no way to disable the switching, which is separate from HDMI-CEC, a feature of the HDMI protocol that allows for connected devices to be controlled by one remote. Nintendo Switch owners who use a Samsung HDTV have been reporting that their TV will randomly change to the Switch’s HDMI input while the console is in sleep mode. There’s a 16-page thread on the Nintendo Support Forums about this issue, although the Switch isn’t the only device affected by it. Owners of boxes like the Apple TV have run into the same problem, according to a similar thread on the Samsung forums. There’s no word from Samsung on whether the upcoming firmware update will add an option to disable automatic HDMI switching or remove the feature altogether. We’ll just have to wait and see how it works when the patch arrives.</p>",
+            "afbeeldingl": "switch.jpg",
+            "afbeeldings": "switch.jpg"
+        },
+        {
+            "titel": "Professional Overwatch League announces amateur tournament",
+            "id": 198,
+            "datum": "19/05/2017 - 06:06",
+            "categorieen": ["games","software"],
+            "samenvatting": "The Overwatch League, a city-based esports league with permanent teams, was only announced last November. Since then, potential owners have been maneuvering for their piece of the action.",
+            "body": "<p class='samenvatting'>The Overwatch League, a city-based esports league with permanent teams, was only announced last November. Since then, potential owners have been maneuvering for their piece of the action. Today comes word that Blizzard itself is looking to prime the pump with an open invitation to join Overwatch Contenders, a developmental league for aspiring pros. Winners could earn cash prizes and the attention of pro teams looking to fill out their roster. Registration for season zero starts today, and matches start June 3. “If you and your team have what it takes to compete with the best in the West, Overwatch Contenders is your chance to shine,” Blizzard announced today in a press release. “To find the top teams on the North American and European servers, Season Zero of Overwatch Contenders will be an open signup, online-only qualifier to determine the top eight teams in each of those two regions. Each of these tournaments will have a prize pool of USD $50,000.” The top six North American teams will be joined by teams Envy and Rogue, participants in South Korea’s Overwatch APEX tournament, for Overwatch Contenders season one. The four best teams will advance to a playoff, where they’ll fight for a $100,000 prize pool. Simultaneously, a European tournament will whittle down the open field in season zero to four teams, who will also duke it out in a playoff for a second $100,000 prize pool.</p>",
+            "afbeeldingl": "overwatch.jpg",
+            "afbeeldings": "overwatch.jpg"
+        }
+    ]
+}
